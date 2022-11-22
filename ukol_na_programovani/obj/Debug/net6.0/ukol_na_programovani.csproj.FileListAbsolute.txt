@@ -1,0 +1,15 @@
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.csproj.AssemblyReference.cache
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.AssemblyInfoInputs.cache
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.AssemblyInfo.cs
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.csproj.CoreCompileInputs.cache
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\bin\Debug\net6.0\ukol_na_programovani.exe
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\bin\Debug\net6.0\ukol_na_programovani.deps.json
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\bin\Debug\net6.0\ukol_na_programovani.runtimeconfig.json
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\bin\Debug\net6.0\ukol_na_programovani.dll
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\bin\Debug\net6.0\ukol_na_programovani.pdb
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.dll
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\refint\ukol_na_programovani.dll
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.pdb
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ukol_na_programovani.genruntimeconfig.cache
+C:\Users\janse\RiderProjects\ukol_na_programovani\ukol_na_programovani\obj\Debug\net6.0\ref\ukol_na_programovani.dll
